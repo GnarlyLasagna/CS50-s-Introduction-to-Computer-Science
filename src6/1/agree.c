@@ -1,4 +1,3 @@
-
 // Logical operators
 
 #include <cs50.h>
